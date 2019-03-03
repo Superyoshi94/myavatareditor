@@ -1,2 +1,3 @@
 # myavataredit
-http://nintendobrew.com/myavatareditor/or
+http://nintendobrew.com/myavatareditor/
+
